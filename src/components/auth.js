@@ -3,7 +3,7 @@ import { createUserWithEmailAndPassword } from "firebase/auth"
 
 export const auth = () => {
     const signIn = () => {};
-    // test change
+    
     return (
         <div>
             <input placeholder="Email"/>
